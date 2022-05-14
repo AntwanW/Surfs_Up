@@ -7,3 +7,4 @@ The analysit uses hawaii.sqlite to query the temperature data for the month of J
 
 ## Summary:
 In December and June, the temperatures in Hawaii are  warmer. This means that ice cream sales are more likely to be successful during the "winter" weather season same as summer season.
+![alt text](https://github.com/Wrancher123/Surfs_Up/blob/main/June%20Temps.png) ![alt text](https://github.com/Wrancher123/Surfs_Up/blob/main/Dec%20Temps.png)
